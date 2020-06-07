@@ -112,7 +112,9 @@ P(B|A) = P(A|B)P(B)) / (P(A|B)P(B) + P(A|C)P(C)
 ### Q6. Bayesian &amp; Frequentist Comparison  
 How do frequentist and Bayesian statistics compare?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+Frequentists believe data is a repeatable random sample and that sampling is infinite. They fix the parameters they work with so that they remain constant during this infinite sampling process.
+
+Bayesian statistics treats unknown quantities probablistically and are always updating their assumptions. They observe data from a realised sample and parameters are determined probablisitcally.
 
 ---
 
